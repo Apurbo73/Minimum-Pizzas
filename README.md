@@ -1,6 +1,5 @@
 ﻿# Minimum-Pizzas
 
-Sure! Let's break down the logic behind the C++ code:
 
 ---
 
