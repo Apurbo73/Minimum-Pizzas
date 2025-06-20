@@ -1,4 +1,4 @@
-﻿# Minimum-Pizzas
+﻿# Minimum Pizzas
 
 
 ---
