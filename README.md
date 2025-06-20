@@ -65,4 +65,3 @@ Prints the number of pizzas for each test case.
 
 ---
 
-Let me know if you'd like a [visual diagram](f), [code with comments](f), or [interactive explanation](f).
